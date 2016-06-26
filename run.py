@@ -3,7 +3,6 @@
 import pygame
 from pygame.locals import *
 import sys
-import config
 import random
 
 MASS_SIZE = 100 # １マスのおおきさ
